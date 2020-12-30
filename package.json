@@ -1,0 +1,13 @@
+{
+  "name": "aha-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rainnut/aha-cli.git",
+  "author": "Rainnut <805349388@qq.com>",
+  "license": "MIT",
+  "bin": "cli.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3"
+  }
+}
